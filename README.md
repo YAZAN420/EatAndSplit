@@ -1,1 +1,1 @@
-EatAndSplit React App
+EatAndSplit React App.
